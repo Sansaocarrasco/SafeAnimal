@@ -1,7 +1,7 @@
 # SafeAnimal
 ![SafeAnimal Logo](https://github.com/user-attachments/assets/2d9a005a-e29a-4d0e-bdc6-33dc2ac8e37e)
 
-**SafeAnimal** é um projeto inovador desenvolvido em **Swift**, utilizando o padrão de software MVVM (Model-View-ViewModel). Este projeto visa proporcionar segurança e monitoramento para animais de estimação por meio de uma coleira digital. Com funcionalidades como rastreamento em tempo real e monitoramento de ração e água, o SafeAnimal garante que você sempre saiba onde está seu animal e se ele está bem alimentado e hidratado. O projeto foi desenvolvido durante o curso de capacitação do Instituto de Pesquisa Eldorado, chamado **Hackatruck Space Maker**.
+**SafeAnimal** é um projeto inovador desenvolvido em **Swift**, utilizando o padrão de software MVVM (Model-View-ViewModel). Este projeto visa proporcionar segurança e monitoramento para animais de estimação por meio de uma coleira digital. Com funcionalidades como rastreamento em tempo real e monitoramento de ração e água, o SafeAnimal garante que você sempre saiba onde está seu animal e se ele está bem alimentado e hidratado. O projeto foi desenvolvido durante o curso de capacitação do Instituto de Pesquisa Eldorado, chamado **Hackatruck Maker Space**.
 
 ## Hackatruck
 ![Hackatruck](https://github.com/user-attachments/assets/45c261cc-1e20-4199-84b3-233f4526d7d8)
