@@ -50,7 +50,7 @@ O Hackatruck oferece capacitação presencial em programação, com foco na ling
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/SafeAnimal.git
+   git clone https://github.com/Sansaocarrasco/SafeAnimal.git
 
 2. Modifique o arquivo (ViewModel.swift) para fazer o GET no banco de sua preferencia:
    ```bash
